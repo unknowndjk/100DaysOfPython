@@ -1,2 +1,4 @@
 # 100DaysOfPython
-This is 100days journey with python
+This is a 100days journey with python
+
+I post here code exercises in this 100day
